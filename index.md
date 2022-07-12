@@ -2,22 +2,20 @@
 
 Esta web podrá ser utilizada por los administradores para acceder a información sobre usuarios, contenidos y transacciones.
 
-<details><summary>Iniciar sesión</summary>
+## Indice
+1. [Iniciar sesión](#iniciarsesion)
+2. [Usuarios](#usuarios)
+4. [Contenidos](#contenidos)
+3. [Transacciones](#transacciones)
 
-
-## Iniciar sesión
+## Iniciar sesión <a name="iniciarsesion"></a>
 
 Para ingresar sesión se deberá utilizar el mail y clave provisto por un administrador
 
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.001.jpeg)
 
 
-</details>
-
-<details><summary>Usuarios</summary>
-<p>
-
-## Usuarios
+## Usuarios <a name="usuarios"></a>
 
 Al ingresar a la sección de usuarios, se podrá observar un listado de todos los usuarios del sistema.
 
@@ -39,13 +37,8 @@ Para cada usuario se puede observar a simple vista su:
 
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.007.png)
 
-</p>
-</details>
 
-<details><summary>Contenidos</summary>
-<p>
-
-## Contenidos
+## Contenidos <a name="contenidos"></a>
 
 Al ingresar a la sección de contenidos, se podrá observar un listado de todos los contenidos del sistema.
 
@@ -58,8 +51,7 @@ Para cada contenido se puede observar a simple vista:
 - Suscripción necesaria: ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.002.png) si no se requiere, o ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.003.png) si es premium
 - Tipo de contenido: Canción ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.008.png) o Álbum ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.009.png)
 
-<details><summary>Canción</summary>
-<p>
+
 
 ### Canción:
 
@@ -69,11 +61,7 @@ Al seleccionar una canción se podrá observar más información sobre la misma
 
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.011.png)
 
-</p>
-</details>
 
-<details><summary>Album</summary>
-<p>
 
 ### Álbum:
 Al seleccionar un álbum se podrá observar más información sobre el mismo, así como también las canciones que lo componen.
@@ -81,15 +69,10 @@ Al seleccionar un álbum se podrá observar más información sobre el mismo, as
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.012.png)
 
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.013.jpeg)
-</p>
-</details>
-</p>
-</details>
 
-<details><summary>Transacciones</summary>
-<p>
 
-## Transacciones
+
+## Transacciones <a name="transacciones"></a>
 
 Al ingresar a la sección de transacciones, se podrá observar un listado de todas las transacciones.
 
@@ -99,7 +82,4 @@ Para cada transacción se muestra:
 - Hash de transacción
 
 Se puede además filtrar por usuarios mediante la barra de busquedas.
-
-</p>
-</details>
 
