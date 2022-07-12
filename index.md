@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# GUIA DE USUARIO: Backoffice Web
 
-You can use the [editor on GitHub](https://github.com/SpotyFiuby/spotifiuby.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esta web podrá ser utilizada por los administradores para acceder a información sobre usuarios, contenidos y transacciones.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Iniciar sesión
 
-### Markdown
+Para ingresar sesión se deberá utilizar el mail y clave provisto por un administrador
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.001.jpeg)
 
-```markdown
-Syntax highlighted code block
+## Usuarios
 
-# Header 1
-## Header 2
-### Header 3
+Al ingresar a la sección de usuarios, se podrá observar un listado de todos los usuarios del sistema.
 
-- Bulleted
-- List
+Para cada usuario se puede observar a simple vista su:
 
-1. Numbered
-2. List
+- Nombre de usuario
+- Mail
+- Foto de perfil
+- Tipo suscripción: ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.002.png) si no está suscrito, o ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.003.png) si es premium
+- Artista: ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.004.png) si no es artista, o ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.005.png)si es artista
 
-**Bold** and _Italic_ and `Code` text
+![](Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.006.png)Al seleccionar un usuario se puede observar más información acerca del mismo como:
 
-[Link](url) and ![Image](src)
-```
+- Teléfono
+- Ubicación
+- Descripción
+- Albums asociados en caso de ser artista
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.007.png)
 
-### Jekyll Themes
+## Contenidos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SpotyFiuby/spotifiuby.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Al ingresar a la sección de contenidos, se podrá observar un listado de todos los contenidos del sistema.
 
-### Support or Contact
+Se puede filtrar el contenido por álbumes, canciones, o ambos.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para cada contenido se puede observar a simple vista:
+
+- Imagen asociada
+- Título
+- Suscripción necesaria: ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.002.png) si no se requiere, o ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.003.png) si es premium
+- Tipo de contenido: Canción ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.008.png) o Álbum ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.009.png)
+
+### Canción:
+
+Al seleccionar una canción se podrá observar más información sobre la misma
+
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.010.png)
+
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.011.png)
+
+### Álbum:
+Al seleccionar un álbum se podrá observar más información sobre el mismo, así como también las canciones que lo componen.
+
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.012.png)
+
+![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.013.jpeg)
+
+## Transacciones
+
+Al ingresar a la sección de transacciones, se podrá observar un listado de todas las transacciones.
+
+Para cada transacción se muestra:
+
+- Usuario de la transacción
+- Hash de transacción
+
+Se puede además filtrar por usuarios mediante la barra de busquedas.
+
