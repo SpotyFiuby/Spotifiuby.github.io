@@ -3,7 +3,7 @@
 Esta web podrá ser utilizada por los administradores para acceder a información sobre usuarios, contenidos y transacciones.
 
 <details><summary>Iniciar sesión</summary>
-<p>
+
 
 ## Iniciar sesión
 
@@ -11,7 +11,7 @@ Para ingresar sesión se deberá utilizar el mail y clave provisto por un admini
 
 ![](./images/Aspose.Words.735e4c46-5955-417f-b854-d1259a23dd4a.001.jpeg)
 
-</p>
+
 </details>
 
 <details><summary>Usuarios</summary>
