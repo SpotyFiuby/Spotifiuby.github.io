@@ -1,4 +1,29 @@
-﻿## Crea tu cuenta de Spotifiuby
+﻿# GUIA DE USUARIO: Spotifiuby App
+
+## Indice
+1. [Registro](#registrarse)
+2. [Edición de perfil](#editarpefil)
+3. [Notificaciones](#notificaciones)
+4. [Buscar](#buscar)
+   - [Búsqueda por suscripción](#buscarsusc)
+   - [Búsqueda por género](#buscargen)
+5. [Biblioteca](#biblioteca)
+6. [Playlists](#playlists)
+   - [Crea una playlist](#crearplay)
+   - [Edita una playlist](#editarplay)
+   - [Agregar canciones a una playlist](#agregarplay)
+   - [Eliminar canciones de una playlist](#eliminarplay)
+7. [Sigue a tus artistas favoritos](#seguirartista)
+8. [Enviar mensajes a otros usuarios](#mensaje)
+9. [artista](#artista)
+   - [Convertirse en artista](#beartist)
+   - [Crear Album](#crearalbum)
+   - [Editar Album](#editaralbum)
+   - [Agregar Canción](#agregarcancionalbum)
+10. [Premium](#premium)
+
+
+## Crea tu cuenta de Spotifiuby <a name="registrarse"></a>
 
 Solo tienes que elegir **REGÍSTRATE** desde la pantalla de inicio de sesión en la aplicación.
 
@@ -10,7 +35,7 @@ El resto de los datos de registro, como el nombre de usuario, número de teléfo
 
 Te llegará un whatsapp al numero ingresado con tu PIN de autenticación para que confirmes el registro
 
-## Edición de perfil
+## Edición de perfil <a name="editarpefil"></a>
 
 1. Ve a **Inicio ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.001.png)**.
 1. Selecciona **Configuración ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.002.png)**.
@@ -23,11 +48,11 @@ Te llegará un whatsapp al numero ingresado con tu PIN de autenticación para qu
    - Ubicación
 1. Selecciona **Guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
-## Notificaciones
+## Notificaciones <a name="notificaciones"></a>
 
 Podrás observar quién te envió un mensaje o comenzó a seguirte presionando en el icono de **NOTIFICACIONES ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.005.png)** desde el **inicio ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.001.png)**.
 
-## Buscar
+## Buscar <a name="buscar"></a>
 
 Encuentra justo lo que estás buscando en la sección **Buscar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.006.png)**:
 
@@ -36,19 +61,19 @@ Encuentra justo lo que estás buscando en la sección **Buscar ![](./images/Aspo
 - Artistas
 - Perfiles
 
-### Búsqueda por suscripción
+### Búsqueda por suscripción <a name="buscarsusc"></a>
 
 Selecciona la opción **PREMIUM** para agregar álbumes y canciones premiums a la búsqueda.
 
 ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.007.png)
 
-### Búsqueda  por género
+### Búsqueda  por género <a name="buscargen"></a>
 
 Realiza filtros por género para encontrar las canciones y álbumes que más se adecuen a tu búsqueda.
 
 ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.008.png)
 
-## Biblioteca
+## Biblioteca <a name="biblioteca"></a>
 
 **Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.009.png)** está en la barra de menú.
 
@@ -64,16 +89,16 @@ Para agregar contenido a Tu biblioteca:
 1. Selecciona ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.010.png) en la canción o el álbum que quieras
 1. Selecciona **SEGUIR ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.011.png)** en el artista que quieras
 
-## Playlists
+## Playlists <a name="playlists"></a>
 
-### Crea una playlist
+### Crea una playlist <a name="crearplay"></a>
 
 Ve a Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.012.png).
 
 1. Selecciona en la parte inferior.![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.013.png)
 1. Dale un nombre y una descripción a tu playlist y selecciona **guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
-### Edita una playlist
+### Edita una playlist <a name="editarplay"></a>
 
 Ve a Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.012.png).
 
@@ -81,17 +106,17 @@ Ve a Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34
 1. Selecciona **editar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.014.png)**
 1. Realiza tus cambios y selecciona **guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
-### Agregar canciones a una playlist
+### Agregar canciones a una playlist <a name="agregarplay"></a>
 
 1. Presiona el ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.015.png) junto a la canción que desees agregar a tu playlist.
 1. Selecciona la playlist a la que deseas agregar la canción
 
-### Eliminar canciones de una playlist
+### Eliminar canciones de una playlist <a name="eliminarplay"></a>
 
 1. Selecciona la playlist de la cual deseas eliminar una canción
 1. Presiona el ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.016.png)junto a la canción que desees eliminar de tu playlist.
 
-## Sigue a tus artistas favoritos
+## Sigue a tus artistas favoritos <a name="seguirartista"></a>
 
 1. Ve a **Buscar![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.006.png)**
 1. Busca a tu artista favorito
@@ -100,14 +125,14 @@ Ve a Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34
 
 Para dejar de seguirlo deberás presionar el botón **dejar de seguir ![](Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.017.png)**
 
-## Envía mensajes a otros usuarios
+## Envía mensajes a otros usuarios <a name="mensaje"></a>
 
 1. Ve al perfil del usuario con el que deseas chatear
 1. Presiona el botón ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.018.png) y comienza a chatear con el usuario
 
-## Artista
+## Artista <a name="artista"></a>
 
-### Convertirse en artista
+### Convertirse en artista <a name="beartist"></a>
 
 Conviértete en un artista para poder subir contenido.
 
@@ -115,21 +140,21 @@ Conviértete en un artista para poder subir contenido.
 1. Selecciona **Configuración ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.002.png)**.
 1. Selecciona **Become an artist**
 
-### Crea un álbum
+### Crea un álbum <a name="crearalbum"></a>
 
 1. Ve a la sección **subir contenido ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.019.png)**.
 1. Selecciona ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.020.png) en la parte inferior.
 1. Completa los datos requeridos.
 1. Selecciona **guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
-### Edita un álbum
+### Edita un álbum <a name="editaralbum"></a>
 
 1. Ve a la sección **subir contenido ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.019.png)**.
 1. Selecciona el álbum que deseas editar
 1. Selecciona **editar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.014.png)**
 1. Realiza tus cambios y selecciona **guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
-### Agregar canciones a un álbum
+### Agregar canciones a un álbum <a name="agregarcancionalbum"></a>
 
 1. Ve a la sección **subir contenido ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.019.png)**.
 1. Selecciona el álbum al que desees agregar una canción
@@ -138,7 +163,7 @@ Conviértete en un artista para poder subir contenido.
 1. Selecciona **guardar ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.004.png)**.
 
 
-## Spotifiuby Premium
+## Spotifiuby Premium <a name="premium"></a>
 
 Accede a contenido exclusivo suscribiendote a premium en la sección **PREMIUM** ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.024.png)
 
