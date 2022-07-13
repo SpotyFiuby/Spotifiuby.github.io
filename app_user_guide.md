@@ -121,9 +121,9 @@ Ve a Tu biblioteca ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34
 1. Ve a **Buscar![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.006.png)**
 1. Busca a tu artista favorito
 1. Selecciona a tu artista favorito
-1. Presiona el botón **seguir ![](Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.011.png)**debajo del nombre del artista que quieres seguir.
+1. Presiona el botón **seguir ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.011.png)**debajo del nombre del artista que quieres seguir.
 
-Para dejar de seguirlo deberás presionar el botón **dejar de seguir ![](Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.017.png)**
+Para dejar de seguirlo deberás presionar el botón **dejar de seguir ![](./images/Aspose.Words.940ed585-7c5b-4857-b898-2ecd1a7ca34a.017.png)**
 
 ## Envía mensajes a otros usuarios <a name="mensaje"></a>
 
