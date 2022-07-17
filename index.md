@@ -10,4 +10,8 @@
 
 
 #### Enunciado:
-https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/
+[Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/)
+
+
+#### Documentación Técnica:
+[Documentación Técnica](https://docs.google.com/document/d/1qeX7vw8qlUQgJsBhi18os4CbqxRVpZRRj_UytfjOuyE/edit?usp=sharing)
