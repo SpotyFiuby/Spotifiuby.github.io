@@ -15,3 +15,10 @@
 
 #### Documentación Técnica:
 [Documentación Técnica](https://docs.google.com/document/d/1qeX7vw8qlUQgJsBhi18os4CbqxRVpZRRj_UytfjOuyE/edit?usp=sharing)
+
+## Mobile App:
+[Prototipo de diseño](https://balsamiq.cloud/s4o4eyg/phcxro2)
+
+## Backoffice Web:
+[Página Web](https://backoffice-weld.vercel.app/)
+[Prototipo de diseño](https://balsamiq.cloud/s4o4eyg/p9pks1)
