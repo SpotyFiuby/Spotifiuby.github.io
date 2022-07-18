@@ -20,6 +20,9 @@
 #### Bitácora de Proyecto:
 [Bitácora de Proyecto](https://docs.google.com/document/d/1udH3vo1as1M9LiJog50_Muba_CU7wyZW-FmnDwvOJXI/edit?usp=sharing)
 
+#### Análisis Postmortem:
+[Análisis Postmortem](https://docs.google.com/document/d/1R0dMs4dplAnt673ocOWQm13qIdXwZ9sP6pmmhlHIkLs/edit)
+
 ## Mobile App:
 [Prototipo de diseño](https://balsamiq.cloud/s4o4eyg/phcxro2)
 
