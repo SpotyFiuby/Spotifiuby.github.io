@@ -16,6 +16,10 @@
 #### Documentación Técnica:
 [Documentación Técnica](https://docs.google.com/document/d/1qeX7vw8qlUQgJsBhi18os4CbqxRVpZRRj_UytfjOuyE/edit?usp=sharing)
 
+
+#### Bitácora de Proyecto:
+[Bitácora de Proyecto](https://docs.google.com/document/d/1udH3vo1as1M9LiJog50_Muba_CU7wyZW-FmnDwvOJXI/edit?usp=sharing)
+
 ## Mobile App:
 [Prototipo de diseño](https://balsamiq.cloud/s4o4eyg/phcxro2)
 
